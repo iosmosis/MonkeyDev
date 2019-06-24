@@ -7,7 +7,7 @@ $setCmd
 
 #导出环境变量
 export PATH=/opt/MonkeyDev/bin:/usr/local/bin:/usr/bin:/usr/sbin:/bin:/sbin:$PATH
-
+export ALL_PROXY=socks5://127.0.0.1:1080
 #脚本名称和版本
 export scriptName="${0##*/}"
 export scriptVer="2.0"

@@ -9,8 +9,13 @@ A modified version of iOSOpenDev
 
 Plese Read Wiki: [Wiki](https://github.com/AloneMonkey/MonkeyDev/wiki)
 
+ps:由于墙的原因一直安装失败 这里修改了md-install代码 加入了
+```
+export ALL_PROXY=socks5://127.0.0.1:1086
+ssr默认代理端口 也可以自行修改
+```
 
-
+就可以成功安装了
 
 
 原有iOSOpenDev的升级，非越狱插件开发集成神器！
